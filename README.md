@@ -30,3 +30,12 @@ A: This challenge wasnt too difficult. The hardest part was the vagueness in the
 A: The documentation for this cahllenge had taken a fall from the ones before. There was less of a guide to this challenge but it also lacked some of the details that would have helped when doing this assignment.
 4. Any other thoughts about your work, the challenge, or this retrospective?
 A: Nope.
+
+### Number Stats
+1. how did you do?
+A: 
+2. How hard was the challenge to complete? Were there any specific aspects of the challenge that you found most difficult?
+
+3. Was there anything you didn’t understand or was confusing when you completed the challenge? Be as specific as possible. This information will be used to provide you with additional help in learning this material.
+
+4. Any other thoughts about your work, the challenge, or this retrospective?
