@@ -14,40 +14,41 @@ gradebook = [[61, 74, 69, 62, 72, 66, 73, 65, 60, 63, 69, 63, 62, 61, 64],
 # Display the average of each student's grade.
 # Display tthe average for each assignment.
 
-def StudentsAverages(gradebook):
-    current = 0
-    rowTotal = 0
-    totalAssignments = 0
 
-    print("Student Averages: ")
-
-    for i in range(len(gradebook)):
-        for j in range(len(gradebook[i])):
-            rowTotal += gradebook[i][j]
-            totalAssignments += 1
-        current += 1
-        avg = rowTotal / totalAssignments
-        print("Student {0}: {1:.2f}".format(current, avg))
-        totalAssignments = 0
-        rowTotal = 0
 
 
 def AssignmentAverages(gradebook):
     current = 0
     columnTotal = 0
     totalStudents = 0
+    transpose = zip(*gradebook)
 
     print("Assignment Averages: ")
 
-    for row, r in enumerate(gradebook):
-        for col, c in enumerate(r):
-            columnTotal += r[col]
+    for row in transpose:
+        for elem in row:
+            columnTotal += elem
             totalStudents += 1
         current += 1
         avg = columnTotal / totalStudents
         print("Assignment {0}: {1:.2f}".format(current, avg))
         totalStudents = 0
         columnTotal = 0     
+
+def StudentsAverages(gradebook):
+    current = 0
+    rowTotal = 0
+
+    print("Student Averages: ")
+
+    for row in gradebook:
+        for elem in row:
+            rowTotal += elem
+        current += 1
+        avg = rowTotal / len(row)
+        print("Student {0}: {1:.2f}".format(current, avg))
+        rowTotal = 0
+
 
 def main():
     AssignmentAverages(gradebook)
