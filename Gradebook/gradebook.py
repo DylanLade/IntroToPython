@@ -1,4 +1,4 @@
-# gradebook.py
+# gradebook.py Assignment By Dylan Lade for Python Programming 1
 
 gradebook = [[61, 74, 69, 62, 72, 66, 73, 65, 60, 63, 69, 63, 62, 61, 64],
              [73, 80, 78, 76, 76, 79, 75, 73, 76, 74, 77, 79, 76, 78, 72],
