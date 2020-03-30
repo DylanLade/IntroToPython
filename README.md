@@ -61,3 +61,13 @@ A: This challenge was very easy to complete, it only required some playing aroun
 A: Nope
 4. Any other thoughts about your work, the challenge, or this retrospective?
 A:Nope
+
+### Lists1 
+1. how did you do?
+A:The only difference was how I made foods2 but other than that its correct.
+2. How hard was the challenge to complete? Were there any specific aspects of the challenge that you found most difficult?
+A:This challenge was tedious but was easy.
+3. Was there anything you didn’t understand or was confusing when you completed the challenge? Be as specific as possible. This information will be used to provide you with additional help in learning this material.
+A:Nope
+4. Any other thoughts about your work, the challenge, or this retrospective?
+A:Nope
