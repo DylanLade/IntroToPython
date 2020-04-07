@@ -52,7 +52,7 @@ def StudentsAverages(gradebook):
 
 def main():
     AssignmentAverages(gradebook)
-    print()
+    print
     StudentsAverages(gradebook)
 
 if __name__ == "__main__":

@@ -61,3 +61,23 @@ A: This challenge was very easy to complete, it only required some playing aroun
 A: Nope
 4. Any other thoughts about your work, the challenge, or this retrospective?
 A:Nope
+
+### Lists1 
+1. how did you do?
+A:The only difference was how I made foods2 but other than that its correct.
+2. How hard was the challenge to complete? Were there any specific aspects of the challenge that you found most difficult?
+A:This challenge was tedious but was easy.
+3. Was there anything you didn’t understand or was confusing when you completed the challenge? Be as specific as possible. This information will be used to provide you with additional help in learning this material.
+A:Nope
+4. Any other thoughts about your work, the challenge, or this retrospective?
+A:Nope
+
+### AnimalSubclass
+1. how did you do?
+A: The main functionality was the same mine wasn't as sectioned off into functions as the key but with the flow of the program it doesn't change much.
+2. How hard was the challenge to complete? Were there any specific aspects of the challenge that you found most difficult?
+A: This challenge took some effort in making sure the subclasses were organized correctly and that all of the imports were done properly.
+3. Was there anything you didn’t understand or was confusing when you completed the challenge? Be as specific as possible. This information will be used to provide you with additional help in learning this material.
+A: Nope.
+4. Any other thoughts about your work, the challenge, or this retrospective?
+A: Nope.
