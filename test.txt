@@ -1,0 +1,2 @@
+This is a sample file. This file will have a few different words.
+This file will also have some similar words.
