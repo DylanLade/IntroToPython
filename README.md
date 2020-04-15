@@ -81,3 +81,13 @@ A: This challenge took some effort in making sure the subclasses were organized 
 A: Nope.
 4. Any other thoughts about your work, the challenge, or this retrospective?
 A: Nope.
+
+### Python Turtle Graphics
+1. how did you do?
+A: My program wasn't the most unique but I Made it somewhat Dynamic with user input.
+2. How hard was the challenge to complete? Were there any specific aspects of the challenge that you found most difficult?
+A: The hard part about this challenge was trying to create something unique.
+3. Was there anything you didn’t understand or was confusing when you completed the challenge? Be as specific as possible. This information will be used to provide you with additional help in learning this material.
+A: If we had more time this would have been more unique due to us having more time to learn what is possible with turtle.
+4. Any other thoughts about your work, the challenge, or this retrospective?
+A: Nope.
