@@ -52,7 +52,7 @@ def recursive_circles3(turtle, angle, quantity, delta, radius):
 
         turtle.left(unit_angle)
     radius = radius - delta
-    if (radius > 1):
+    if (radius > 5):
         recursive_circles3(turtle, angle, quantity, delta, radius)
 
 def main():
